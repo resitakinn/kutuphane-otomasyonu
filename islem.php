@@ -1,6 +1,4 @@
     <?php
-
-
 include 'baglan.php';
 
 if (isset($_POST['giris'])) {

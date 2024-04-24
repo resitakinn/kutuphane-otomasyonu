@@ -3,6 +3,7 @@
 <?php  
 
 
+
 try {
     $db = new PDO('mysql:host=localhost;dbname=kutuphane','root','');
     // echo 'Veri Tabanı Başarılı...';

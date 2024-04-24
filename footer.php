@@ -1,5 +1,3 @@
-
-
     <br>
     <br>
     <div class="card text-center bg-success">
@@ -7,10 +5,7 @@
     <b style="color:white;">Mehmet Reşit Akın &copy; <?php echo date("Y")?></b>
     <b>Computer Programing</b>
 
-    </div>
-
-    
-    
+    </div>  
     
     
     <!-- Optional JavaScript -->

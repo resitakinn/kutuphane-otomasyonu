@@ -1,7 +1,5 @@
 <?php 
 
-
-
 include 'baglan.php';
 
 

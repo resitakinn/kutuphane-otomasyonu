@@ -1,9 +1,6 @@
 <?php 
 
-
-
 include 'baglan.php';
-
 
 $kullanicisor = $db -> prepare('SELECT * FROM kullanicigiris WHERE kullanici_mail=:kullanici_mail');
 $kullanicisor -> execute([
@@ -11,7 +8,6 @@ $kullanicisor -> execute([
       'kullanici_mail' => $_SESSION['userkullanici_mail']
 
 ]);
-
 
 $say = $kullanicisor -> rowCount();
 $kullanicicek = $kullanicisor -> fetch(PDO::FETCH_ASSOC);

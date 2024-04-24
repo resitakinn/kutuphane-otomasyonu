@@ -1,10 +1,6 @@
 <?php 
 include('header.php'); // veritabanı bağlantımızı sayfamıza ekliyoruz. 
 ?>
-
-
-
-
 <br><br>
 
 

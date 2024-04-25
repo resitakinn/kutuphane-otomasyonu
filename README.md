@@ -1,4 +1,4 @@
-# kutuphane-otomasyonu
+# kutuphane-otomasyonu-v.1
 ## Projenin Amacı 
 Bu proje, kütüphanelerin işleyişini modern teknolojiyle optimize etmek ve kullanıcı deneyimini geliştirmek amacıyla geliştirilmiştir. Kütüphane otomasyonu, geleneksel kütüphane yönetimini dijital platforma taşıyarak kütüphane personelinin iş yükünü azaltmayı, kullanıcıların kitapları kolayca bulup ödünç almasını sağlamayı ve kütüphane envanterini daha etkili bir şekilde yönetmeyi hedeflemektedir.
 ### Projenin temel amaçları şunlardır:
